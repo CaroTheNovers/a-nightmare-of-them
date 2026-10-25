@@ -1,0 +1,4 @@
+[config]
+name="My Pixel Game"
+main_scene="res://Main.tscn"
+config_version=4
